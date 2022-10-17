@@ -19,5 +19,5 @@ class Adressen(models.Model):
 
     class Meta:
         verbose_name = "Adressen"
-        verbose_name_plural = "Adressensens"
+        verbose_name_plural = "Adressen"
     
